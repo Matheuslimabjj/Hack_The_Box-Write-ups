@@ -5,12 +5,12 @@
 
 Este repositório contém write-ups completos com:
 ---
-**Reconhecimento e enumeração
+### Reconhecimento e enumeração
 
-**Exploração de vulnerabilidades
+### Exploração de vulnerabilidades
 
-**Escalação de privilégios
+### Escalação de privilégios
 
-**Screenshots e comandos utilizados
+### Screenshots e comandos utilizados
 
 ⚠️ Disclaimer: Conteúdo apenas para fins educacionais.
